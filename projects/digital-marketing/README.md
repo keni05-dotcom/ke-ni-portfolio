@@ -30,3 +30,9 @@ Parents and guardians in Malaysia who are looking for engaging English learning 
 - Sample social media posts and captions
 - Short-form video concept
 - Simple KPI tracking sheet
+
+### Sample Canva creative
+
+[View the Instagram post](https://canva.link/grkwavlhd1vy2b1)
+
+This is a sample campaign creative for the fictional BrightSteps Learning brand.
