@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ke Ni | Portfolio</title>
+  <style>
+    body { margin: 0; font: 16px/1.6 Arial, sans-serif; color: #233044; background: #f5f7fb; }
+    header, main, footer { max-width: 960px; margin: auto; padding: 24px; }
+    header { display: flex; justify-content: space-between; align-items: center; }
+    nav a { margin-left: 16px; color: #315b8a; text-decoration: none; }
+    .hero, .card { background: white; border-radius: 16px; padding: 28px; box-shadow: 0 4px 18px #17365d12; }
+    .hero { margin: 20px 0 32px; }
+    h1 { font-size: clamp(2.2rem, 6vw, 4rem); line-height: 1.1; margin: 8px 0; color: #183653; }
+    h2 { color: #183653; }
+    .eyebrow, .status { color: #52749a; font-size: .85rem; font-weight: bold; text-transform: uppercase; letter-spacing: .08em; }
+    .button { display: inline-block; margin: 8px 8px 0 0; padding: 10px 16px; border-radius: 8px; background: #245b8f; color: white; text-decoration: none; }
+    .button.secondary { background: #e8eef6; color: #245b8f; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+    .card h3 { margin: 4px 0; color: #183653; }
+    .status { color: #8a6500; letter-spacing: 0; }
+    footer { color: #65758a; font-size: .9rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <strong>Ke Ni</strong>
+    <nav><a href="#about">About</a><a href="#projects">Projects</a><a href="#contact">Contact</a></nav>
+  </header>
+
+  <main>
+    <section class="hero" id="about">
+      <p class="eyebrow">Portfolio · Malaysia</p>
+      <h1>Hi, I’m Ke Ni.</h1>
+      <p>I’m a Business Analytics graduate interested in digital marketing, data, customer experience, and business operations. I enjoy using technology to organize information and make everyday work more efficient.</p>
+      <a class="button" href="#projects">Explore my projects</a>
+      <a class="button secondary" href="#contact">Contact me</a>
+    </section>
+
+    <section id="projects">
+      <h2>Selected projects</h2>
+      <div class="grid">
+        <article class="card"><p class="status">In progress</p><h3>Digital Marketing Campaign</h3><p>A sample content and campaign plan using my digital marketing coursework and social media experience.</p></article>
+        <article class="card"><p class="status">In progress</p><h3>Stock Price Analysis</h3><p>My Master’s project exploring stock prediction with Python, machine learning, and sentiment analysis.</p></article>
+        <article class="card"><p class="status">In progress</p><h3>Water Bill Tracker</h3><p>A personal Python and Excel automation project that saves about 10 minutes each month.</p></article>
+        <article class="card"><p class="status">In progress</p><h3>Business Process Case Study</h3><p>A sample process map and requirements document based on a fictional order workflow.</p></article>
+        <article class="card"><p class="status">In progress</p><h3>Admin and Customer Service Samples</h3><p>Sample trackers and customer response scenarios using fictional information.</p></article>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: teekeni05@gmail.com · LinkedIn: [add your profile link]</p>
+    </section>
+  </main>
+
+  <footer>© 2026 Ke Ni · Portfolio projects will be added here as they are completed.</footer>
+</body>
+</html>
