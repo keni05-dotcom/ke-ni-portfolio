@@ -26,10 +26,10 @@ Parents and guardians in Malaysia who are looking for engaging English learning 
 - No actual campaign data is available; results will not be presented as real.
 
 ## Planned campaign materials
-- Two-week content calendar
-- Sample social media posts and captions
-- Short-form video concept
-- Simple KPI tracking sheet
+- [Two-week content calendar](content-calendar.md)
+- [Sample social media posts and captions](sample-captions.md)
+- [Short-form video concept](short-video-concept.md)
+- [Campaign KPI tracker](campaign-kpi-tracker.csv)
 
 ### Sample Canva creative
 
